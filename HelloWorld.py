@@ -5,7 +5,7 @@
 # Prints "Hello, World" to the terminal window.
 def main():
     print("Hello, World ,how are you doing")
-    hello how are you
+    print("my name is ramacita")
 
 if __name__ == "__main__":
     main()
